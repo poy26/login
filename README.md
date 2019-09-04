@@ -1,3 +1,5 @@
+Pasang login username dan password di termux
+
 Instalasi : 
 
 Git clone https://github.com/poy26/login.git
@@ -16,7 +18,7 @@ nano ../usr/etc/bash.bashrc
 
 apabila memakai zshrc
 
-nano ./zshrc
+nano .zshrc
 
 ketik kolom paling bawah login.sh dan password.sh
 
